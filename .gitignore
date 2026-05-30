@@ -1,0 +1,15 @@
+# Ambiente virtual
+.venv/
+
+# Python cache
+_pycache_/
+*.pyc
+
+# Dados brutos (opcional, mas recomendado)
+data/raw/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
